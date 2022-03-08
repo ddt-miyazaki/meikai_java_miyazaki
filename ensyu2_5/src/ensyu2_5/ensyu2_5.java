@@ -22,10 +22,10 @@ public class ensyu2_5 {
 		double y = stdIn.nextDouble();
 
 		// 合計の表示
-	    System.out.println("合計は" + (x + y) + "です。");
+		System.out.println("合計は" + (x + y) + "です。");
 		
 		// 平均の表示
-	    System.out.println("平均は" + (x + y) / 2 + "です。");
+		System.out.println("平均は" + (x + y) / 2 + "です。");
 
 	}
 

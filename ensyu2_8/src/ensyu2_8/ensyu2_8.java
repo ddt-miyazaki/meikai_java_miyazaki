@@ -1,14 +1,14 @@
 package ensyu2_8;
-// Scannerのインポート
-import java.util.Scanner;
 // Randomのインポート
 import java.util.Random;
+// Scannerのインポート
+import java.util.Scanner;
 
 // キーボードから読み込んだ整数値プラスマイナス5の範囲の整数値をランダムに生成して表示するプログラムを作成せよ
 public class ensyu2_8 {
 	public static void main(String[] args) {
 		// 変数の初期化
-        Scanner stdIn = new Scanner(System.in);
+		Scanner stdIn = new Scanner(System.in);
 		Random rand = new Random();
 
 		// 文言表示

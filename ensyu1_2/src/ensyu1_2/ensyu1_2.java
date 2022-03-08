@@ -5,11 +5,11 @@ public class ensyu1_2 {
 
 	public static void main(String[] args) {
 		// 1行目の表示
-	    System.out.println("宮");
+		System.out.println("宮");
 		// 2行目の表示
-	    System.out.println("崎");
+		System.out.println("崎");
 		// 3行目の表示
-	    System.out.println("拓");
+		System.out.println("拓");
 
 	}
 

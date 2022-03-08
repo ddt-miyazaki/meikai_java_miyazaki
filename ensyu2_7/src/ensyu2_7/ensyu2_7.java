@@ -17,18 +17,18 @@ public class ensyu2_7 {
 		// 1桁の正の整数値の代入
 		int posNum1 = rand.nextInt(9) + 1;
 		// 1桁の正の整数値の表示
-	    System.out.println(posNum1);
+		System.out.println(posNum1);
 
 
 		// 1桁の負の整数値表示用数値の代入
 		int negNum = rand.nextInt(9) + 1;
 		// 1桁の負の整数値の表示
-	    System.out.println("-" + negNum);
+		System.out.println("-" + negNum);
 
 		// 2桁の正の整数値の代入
 		int posNum2 = rand.nextInt(90) + 10;
 		// 2桁の正の整数値の表示
-	    System.out.println(posNum2);
+		System.out.println(posNum2);
 
 	}
 

@@ -17,18 +17,18 @@ public class ensyu2_9 {
 		// 0.0以上1.0未満の実数値をランダムに生成
 		double num1 = rand.nextDouble();
 		// 0.0以上1.0未満の実数値の表示
-	    System.out.println(num1);
-		
+		System.out.println(num1);
+
 		// 0.0以上10.0未満の実数値をランダムに生成
-	    double num2 = rand.nextDouble() * 10;
+		double num2 = rand.nextDouble() * 10;
 		// 0.0以上10.0未満の実数値の表示
-	    System.out.println(num2);
-		
+		System.out.println(num2);
+
 		// -1.0以上1.0未満の実数値をランダムに生成
-	    double num3 = rand.nextDouble();
-	    double num4 = rand.nextDouble();
+		double num3 = rand.nextDouble();
+		double num4 = rand.nextDouble();
 		// -1.0以上1.0未満の実数値の表示
-	    System.out.println(num3 - num4);
+		System.out.println(num3 - num4);
 
 	}
 

@@ -5,14 +5,13 @@ public class ensyu1_3 {
 
 	public static void main(String[] args) {
 		// 姓1文字目の表示
-	    System.out.println("宮");
+		System.out.println("宮");
 		// 姓2文字目の表示
-	    System.out.println("崎");
+		System.out.println("崎");
 		// 空白行の表示
-	    System.out.println();
+		System.out.println();
 		// 名の表示
-	    System.out.println("拓");
-
+		System.out.println("拓");
 	}
 
 }
