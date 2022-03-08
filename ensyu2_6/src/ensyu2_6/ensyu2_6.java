@@ -25,7 +25,7 @@ public class ensyu2_6 {
 		double h = stdIn.nextDouble();
 		
 		// 面積の表示
-	    System.out.println("面積は" + (b * h / 2) + "です。");
+		System.out.println("面積は" + (b * h / 2) + "です。");
 	}
 
 }

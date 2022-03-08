@@ -21,7 +21,7 @@ public class ensyu2_8 {
 		int num = rand.nextInt(11) - 5;
 
 		// 入力値±5の値の表示
-	    System.out.println("その値の±5の乱数を生成しました。それは" + (x + num) + "です。");
+		System.out.println("その値の±5の乱数を生成しました。それは" + (x + num) + "です。");
 
 	}
 
