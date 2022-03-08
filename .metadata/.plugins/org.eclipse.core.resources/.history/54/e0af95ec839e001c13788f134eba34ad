@@ -1,0 +1,12 @@
+package ensyu1_2;
+
+public class ensyu1_2 {
+
+	public static void main(String[] args) {
+	    system.out.println("宮");
+	    system.out.println("崎");
+	    system.out.println("拓");
+
+	}
+
+}
