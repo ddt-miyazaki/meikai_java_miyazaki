@@ -494,3 +494,6 @@ Binding(CTRL+R,
 
 !ENTRY mergedoc.encoding 2 0 2022-03-10 15:10:33.572
 !MESSAGE リソース '/ensyu4_28/src/ensyu4_28/ensyu4_28.java' が存在しません。
+
+!ENTRY org.eclipse.ui 2 2 2022-03-10 15:36:00.614
+!MESSAGE 無効なカテゴリー・パス設定: org.springframework.tooling.boot.java.ls.preferences (bundle: org.springframework.ide.eclipse.boot.dash, page: org.springframework.ide.eclipse.boot.dash.prefs.RemoteAppsPrefsPage)
