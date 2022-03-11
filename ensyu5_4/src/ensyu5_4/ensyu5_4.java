@@ -25,9 +25,12 @@ public class ensyu5_4 {
 		// キーボードから入力した値を代入
 		int z = stdIn.nextInt();
 		
+		// 合計の計算
 		int sum = x + y + z;
+		// 平均の計算
 		double avg = sum / 3.0;
 		
+		// 文言表示
 		System.out.println("xとyとzの合計は" + sum + "です。");
 		System.out.println("xとyとzの平均は" + avg + "です。");
 
