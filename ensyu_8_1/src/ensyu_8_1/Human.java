@@ -35,13 +35,15 @@ public class Human {
 	String getName() {
 		return name;
 	}
+	
 	// 身長の取得
 	double getHeight() {
 		return height;
 	}
+	
 	// 体重の取得
 	double getWeight() {
-		return height;
+		return weight;
 	}
 
 	// 年齢の取得
@@ -51,7 +53,7 @@ public class Human {
 	
 	// 性別の取得
 	String getSex() {
-		return age == 0 ? "男" : "女";
+		return sex == 0 ? "男" : "女";
 	}
 
 }
