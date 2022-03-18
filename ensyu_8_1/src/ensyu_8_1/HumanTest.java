@@ -12,7 +12,7 @@ public class HumanTest {
 		System.out.println(tks.getWeight());
 		System.out.println(tks.getAge());
 		System.out.println(tks.getSex());
-        System.out.println(hnk.getName());
+		System.out.println(hnk.getName());
 		System.out.println(hnk.getHeight());
 		System.out.println(hnk.getWeight());
 		System.out.println(hnk.getAge());
