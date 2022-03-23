@@ -6,16 +6,16 @@ public class ensyu14_2 {
 		// RobotPetのインスタンス化
 		RobotPet rp = new RobotPet("ロボ", "たかし");
 		// スキンをBLACKに変更
-		rp.changeSkin(0);
+		rp.changeSkin(Skinnable.BLACK);
 		// スキンをREDに変更
-		rp.changeSkin(1);
+		rp.changeSkin(Skinnable.RED);
 		// スキンをGREENに変更
-		rp.changeSkin(2);
+		rp.changeSkin(Skinnable.GREEN);
 		// スキンをBLUEに変更
-		rp.changeSkin(3);
+		rp.changeSkin(Skinnable.BLUE);
 		// スキンをLEOPARDに変更
-		rp.changeSkin(4);
+		rp.changeSkin(Skinnable.LEOPARD);
 		// スキンを無地に変更
-		rp.changeSkin(5);
+		rp.changeSkin(100);
 	}
 }
