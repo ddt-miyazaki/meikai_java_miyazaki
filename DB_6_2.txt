@@ -1,0 +1,18 @@
+演習6-2 インデックスの再編成
+B-treeインデックスは更新が発生することで時間とともに構造が崩れ、
+性能が劣化することを説明した
+これを防止するためにインデックスの再編成が必要になる
+再編成を実施するための具体的な方法を、DBMSごとに調べよ
+
+MySQL
+dumpをとってリストアすることで再構築可能
+https://dev.mysql.com/doc/refman/8.0/ja/rebuilding-tables.html
+
+Oracle
+ALTER INDEX REBUILDコマンドによって再構築可能
+https://www.shift-the-oracle.com/alter-index/alter-index-rebuild.html
+
+postgreSQL
+REINDEXコマンドによって再構築可能
+https://www.postgresql.jp/docs/9.2/sql-reindex.html
+
