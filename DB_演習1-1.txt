@@ -1,0 +1,13 @@
+演習1-1 DBMSの情報確認
+現在使っているRDBのDBMSについて、以下の情報を確認せよ
+1,使用しているDBMSのバージョン、及びそのDBMSの最新バージョン
+使用中のMySQLのバージョン
+mysql 8.0.28 MySQL Community Server - GPL
+最新バージョン
+バージョン: 8.0.28
+
+2,エディション
+Community Edition
+
+3,マニュアルの所在
+https://dev.mysql.com/doc/refman/8.0/ja/
