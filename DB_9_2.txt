@@ -1,0 +1,14 @@
+演習9-2 実数のデータ型
+入れ子区間モデルの「左端」および「右端」の列を実装するためのデータ型を、
+以下のDBMSの最新バージョンについて調べよ。
+
+・Oracle
+・SQLserver
+・DB2
+・PostgreSQL
+・MySQL
+
+REAL型を使うようなので、各DBMSについて調べたところどのDBMSにもREAL型があるので
+REAL型を使用するのが良いだろう
+
+https://gihyo.jp/dev/serial/01/sql_academy2/000601
